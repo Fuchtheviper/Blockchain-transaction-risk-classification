@@ -160,3 +160,17 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+# No need
+Customer_support_data.csv
+Customer_support_data/
+Data science project Final.ipynb
+Data science project Final_2.ipynb
+Data science project Final_3.ipynb
+Data science project Final_4.ipynb
+Data science project Final_5 (new data).ipynb
+Data science project Final_Regression.ipynb
+Train.csv
+archive (1).zip
+order_score_prediction_1.csv
+order_score_prediction_1/
